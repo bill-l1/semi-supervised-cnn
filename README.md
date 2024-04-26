@@ -1,2 +1,2 @@
 # semi-supervised-cnn
- Computational vision final project
+ Computational vision (CS484) final project
